@@ -6,5 +6,6 @@ Junior Technical Writer trying to learn version control.
 
 ### Markdown Tests
 *italics*
+
 **bold**
 ---
